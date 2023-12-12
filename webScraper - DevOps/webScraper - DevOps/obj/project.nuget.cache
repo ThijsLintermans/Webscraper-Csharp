@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnJ/UCZwxC0XthoWy/Vg8O8Lz+U1ghJ6Fa6jp7lMfidtDSNLIuzqXmOa3/Fh2f48teK3CUMv/oCJKgwJi2L5Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thijs\\DevOps\\webScraper - DevOps\\webScraper - DevOps\\webScraper - DevOps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thijs\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\thijs\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\thijs\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.7100\\selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
