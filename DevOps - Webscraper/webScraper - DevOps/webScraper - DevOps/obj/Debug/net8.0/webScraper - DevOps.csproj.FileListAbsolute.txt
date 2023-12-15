@@ -1,0 +1,23 @@
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\webScraper - DevOps.exe
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\webScraper - DevOps.deps.json
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\webScraper - DevOps.runtimeconfig.json
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\webScraper - DevOps.dll
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\webScraper - DevOps.pdb
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\WebDriver.dll
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.csproj.AssemblyReference.cache
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.AssemblyInfoInputs.cache
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.AssemblyInfo.cs
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.csproj.CoreCompileInputs.cache
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.csproj.CopyComplete
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.dll
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\refint\webScraper - DevOps.dll
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.pdb
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\webScraper - DevOps.genruntimeconfig.cache
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\obj\Debug\net8.0\ref\webScraper - DevOps.dll
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\thijs\DevOps\webScraper - DevOps\webScraper - DevOps\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
